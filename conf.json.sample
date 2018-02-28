@@ -1,0 +1,11 @@
+{
+    "dbType": "mysql",
+    "dbHost": "127.0.0.1",
+    "dbPort": 3306,
+    "dbName": "testdb",
+    "dbUser": "test",
+    "dbPassword": "test",
+    "table": "test",
+    "concurrency": 10,
+    "total": 1000
+}
