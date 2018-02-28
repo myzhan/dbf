@@ -51,3 +51,6 @@ vim ${table}_schema.json
 ```bash
 dbf --op insert
 ```
+
+## License
+Open source licensed under the MIT license (see _LICENSE_ file for details).
